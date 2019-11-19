@@ -32,7 +32,7 @@ Including an example of how to use your role:
 - ANXS.monit ([Galaxy](https://galaxy.ansible.com/list#/roles/502)/[GH](https://github.com/ANXS/monit)) if you want monit protection (in that case, you should set `monit_protection: true`)
 
 
-#### Compatibility matrix with roles
+#### Compatibility matrix
 
 | Distribution / PostgreSQL | <= 9.3 | 9.4 | 9.5 | 9.6 | 10 | 11 | 12 |
 | ------------------------- |:---:|:---:|:---:|:---:|:--:|:--:|:--:|
